@@ -2,7 +2,7 @@
 
 ### 1. My name is Anton Lyskavets
 
-### 2. Contacts for communication
+### 2. Contacts for communication:
 - Telegram: @Anton_Lyskavets
 - linkedin: [Anton Lyskavets](https://www.linkedin.com/in/anton-lyskavets-2804761bb/)
 - mail: neutral@bk.ru
@@ -21,7 +21,7 @@
 
 - [Java project](https://github.com/Anton-Lyskavets/Quiz)
 
-### 7.Education
+### 7.Education:
 
 - BGAS - specialty "Radio communication systems, broadcasting and television"
 - BSUIR - specialty "Information technology and management in technical systems"
