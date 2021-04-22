@@ -1,6 +1,6 @@
 ## MY CV/RESUME
 
-### 1. My name is Anton Lyskavets
+### 1. My name is Anton Lyskavets.
 
 ### 2. Contacts for communication:
 - Telegram: @Anton_Lyskavets
@@ -9,15 +9,15 @@
 
 ### 3. Good day. I want to finish this course and learn to be an android developer. I think this process is very difficult, but also exciting and interesting. I want to change jobs and discover new and unknown things.
 
-### 4. Skills
+### 4. Skills:
 - Java Fundamentals (arrays, oop, lists, threads, etc.)
 
-### 5. Code examples
+### 5. Code examples:
 
 - [Java](https://github.com/Anton-Lyskavets/HomeWork_18_1)
 - [Android](https://github.com/Anton-Lyskavets/Android_HW_1/tree/main/Desktop/Android_HW_1)
 
-### 6. Experience
+### 6. Experience:
 
 - [Java project](https://github.com/Anton-Lyskavets/Quiz)
 
